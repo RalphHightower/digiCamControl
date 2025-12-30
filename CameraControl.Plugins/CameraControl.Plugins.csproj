@@ -481,10 +481,10 @@
       <Version>3.0.2</Version>
     </PackageReference>
     <PackageReference Include="Magick.NET-Q8-x86">
-      <Version>12.1.0</Version>
+      <Version>14.10.1</Version>
     </PackageReference>
     <PackageReference Include="Magick.NET.Core">
-      <Version>12.1.0</Version>
+      <Version>14.10.1</Version>
     </PackageReference>
     <PackageReference Include="Magick.NET.SystemDrawing">
       <Version>6.1.0</Version>
